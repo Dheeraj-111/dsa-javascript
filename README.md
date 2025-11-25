@@ -4,13 +4,13 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 
 ## 📚 Topics Covered
 
-- [Arrays](./arrays/)
-- [Strings](./strings/)
-- [Sorting Algorithms](./sorting/)
-- [Searching Algorithms](./searching/)
-- [Dynamic Programming](./dynamic-programming/)
-- [Recursion](./recursion/)
-- [Miscellaneous](./miscellaneous/)
+- [Arrays](./Arrays/)
+- [Strings](./Strings/)
+- [Sorting Algorithms](./Sorting/)
+- [Searching Algorithms](./Searching/)
+- [Dynamic Programming](./Dynamic Programming/)
+- [Recursion](./Recursion/)
+- [Miscellaneous](./Miscellaneous/)
 
 ## 🎯 Goals
 
