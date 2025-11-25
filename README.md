@@ -8,7 +8,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 - [Strings](./Strings/)
 - [Sorting Algorithms](./Sorting/)
 - [Searching Algorithms](./Searching/)
-- [Dynamic Programming](./Dynamic Programming/)
+- [Dynamic Programming](./Dynamic_Programming/)
 - [Recursion](./Recursion/)
 - [Miscellaneous](./Miscellaneous/)
 
